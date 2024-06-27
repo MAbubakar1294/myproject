@@ -1,4 +1,4 @@
-One option to help us create nice logical commits is to stage interactively with git commit --patch:
+
 
 Make two changes in instructions.txt, at the top and bottom of the file. Make sure that they are separated by at least several unmodified lines.
 
@@ -8,4 +8,3 @@ Do it again for the other change.
 
 When you’re done, inspect the situation with git log, git status, git diff and git diff --staged.
 
-When would this be useful?
