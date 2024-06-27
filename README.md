@@ -1,7 +1,6 @@
-# myproject
-# recipe
 
-This is an exercise repository.
-# recipe
+# Guacamole recipe
+
+
 
 This is an exercise repository.
